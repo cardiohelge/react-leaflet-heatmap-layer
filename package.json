@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OpenGov/react-leaflet-heatmap-layer.git"
+    "url": "git+https://github.com/cardiohelge/react-leaflet-heatmap-layer"
   },
   "keywords": [
     "react",
@@ -69,6 +69,6 @@
     "lodash.min": "^4.0.0",
     "lodash.pluck": "^3.1.2",
     "lodash.reduce": "^4.3.0",
-    "simpleheat": "cardiohelge/simpleheat#cardiohelge-patch"
+    "simpleheat": "https://github.com/cardiohelge/simpleheat#cardiohelge-patch"
   }
 }
